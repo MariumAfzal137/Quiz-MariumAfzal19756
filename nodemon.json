@@ -1,0 +1,7 @@
+{
+    "env": {
+        "JWT_KEY": "secret",
+        "JWT_KEY_ADMIN": "adminsecret",
+        "REFRESH_TOKEN_SECRET": "refresh"
+    }
+}
